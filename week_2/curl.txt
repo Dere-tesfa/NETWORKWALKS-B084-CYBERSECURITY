@@ -1,0 +1,18 @@
+ curl -I networkwalks.com                                                                                                                                        zsh  -9223372036854775808  20:34:02 
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 09 Nov 2026 17:36:04 GMT
+Server: Apache
+Permissions-Policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+Expires: Mon, 09 Nov 2026 18:36:04 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress - Really Simple Security
+Set-Cookie: __wpdm_client=b66611d7fbd21602db8821fe9670c6b9; path=/; domain=networkwalks.com; HttpOnly
+Upgrade: h2,h2c
+Connection: Upgrade
+Location: https://networkwalks.com/
+Referrer-Policy: no-referrer-when-downgrade
+X-Endurance-Cache-Level: 0
+X-nginx-cache: WordPress
+Content-Type: text/html; charset=UTF-8
+
+                                                                                                                                                                                                                                             
