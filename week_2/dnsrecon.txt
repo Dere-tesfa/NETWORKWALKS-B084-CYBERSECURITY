@@ -1,0 +1,25 @@
+ dnsrecon -d networkwalks.com                                                                                                                                 zsh  -9223372036854775808  20:46:08 
+2026-11-09T20:46:15.059546+0300 INFO Starting enumeration for domain: networkwalks.com
+2026-11-09T20:46:15.060239+0300 INFO std: Performing General Enumeration against: networkwalks.com...
+2026-11-09T20:46:15.887434+0300 ERROR No answer for DNSSEC query for networkwalks.com
+2026-11-09T20:46:16.173975+0300 INFO 	 SOA ns6135.hostgator.com 50.87.144.87
+2026-11-09T20:46:16.475285+0300 INFO 	 NS ns6135.hostgator.com 50.87.144.87
+2026-11-09T20:46:16.966421+0300 INFO 	 Bind Version for 50.87.144.87 "9.16.23-RH"
+2026-11-09T20:46:16.967314+0300 INFO 	 NS ns6136.hostgator.com 192.232.216.131
+2026-11-09T20:46:20.961252+0300 INFO 	 MX mail.networkwalks.com 192.232.216.135
+2026-11-09T20:46:21.004802+0300 INFO 	 A networkwalks.com 192.232.216.135
+2026-11-09T20:46:21.742919+0300 INFO 	 TXT networkwalks.com google-site-verification=rr04eRmqHoWY3XemnizDNVK4q75X-Ij-mjgEeg-UsYI
+2026-11-09T20:46:21.743806+0300 INFO 	 TXT networkwalks.com v=spf1 +a +mx +ip4:50.87.144.87 +include:websitewelcome.com ~all
+2026-11-09T20:46:22.464633+0300 INFO Enumerating SRV Records
+2026-11-09T20:46:25.647520+0300 INFO 	 SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.204.11 443
+2026-11-09T20:46:25.648487+0300 INFO 	 SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.203.11 443
+2026-11-09T20:46:25.649365+0300 INFO 	 SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.203.15 443
+2026-11-09T20:46:25.650042+0300 INFO 	 SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.204.15 443
+2026-11-09T20:46:25.650722+0300 INFO 	 SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.204.9 443
+2026-11-09T20:46:25.651344+0300 INFO 	 SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.203.9 443
+2026-11-09T20:46:25.651895+0300 INFO 	 SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.204.14 443
+2026-11-09T20:46:25.652518+0300 INFO 	 SRV _autodiscover._tcp.networkwalks.com cpanelemaildiscovery.cpanel.net 184.94.203.14 443
+2026-11-09T20:46:26.684968+0300 INFO 8 Records Found
+2026-11-09T20:46:26.686469+0300 INFO Completed enumeration for domain: networkwalks.com
+
+                                                                                                                                                                                                                                
